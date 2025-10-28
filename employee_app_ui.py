@@ -39,4 +39,4 @@ class EmployeeDataUI(QWidget):
         self.main_layout.addLayout(left_layout)
         self.main_layout.addWidget(self.table)
         self.main_layout.setStretch(0, 1) 
-        self.main_layout.setStretch(1, 2)  
+        self.main_layout.setStretch(1, 3)  
