@@ -1,0 +1,4 @@
+pandas
+Faker
+PySide6
+openpyxl
